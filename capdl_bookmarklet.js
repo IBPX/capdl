@@ -1,0 +1,1 @@
+/* capdl by IBPX - https://github.com/IBPX/capdl - This is public domain (CC0). http://creativecommons.org/publicdomain/zero/1.0/ - 03/10/2015 21:10 */prompt("Download URL:", "http://video.google.com/timedtext?v=" + prompt("Video ID:") + "&format=" + prompt("Format ('vtt', 'srt', 'sbv'):") + "&lang=" + prompt("Language ('en', 'fr', 'ja', etc.):")); void(0);
